@@ -134,10 +134,15 @@ Analyze:
 ### 4.5 Search Engine & OSINT Recon
 
 Google Dorks:
+
 site:example.com
+
 site:example.com inurl:login
+
 site:example.com inurl:admin
+
 site:example.com filetype:pdf
+
 intitle:"index of"
 
 Look for:
@@ -235,7 +240,9 @@ Analyze:
 ### 6.4 Parameter Discovery
 
 Examples:
+
 example.com/page.php?id=1
+
 example.com/search?q=test
 
 Why parameters matter:
